@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Adriano Maciel
 tagline:             'Senior Full Stack (Back end, Front end and Mobile) Programmer'
 description:         'PHP Specialist, Ionic Developer, Front End Friendly and FullStack Man.'
-url:                 http://adrianomaciel.com.br
+url:                 https://adrianowead.github.io
 baseurl:             ''
 paginate:            5
 
