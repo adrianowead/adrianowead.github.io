@@ -4,7 +4,7 @@ title: Sobre
 published: true
 ---
 
-![Adriano Maciel]({{site.baseurl}}/https://pt.gravatar.com/userimage/14360141/1e34ee9c6841c00e56df4aebfd7cd7b3.jpg?size=200)
+![Adriano Maciel](https://pt.gravatar.com/userimage/14360141/1e34ee9c6841c00e56df4aebfd7cd7b3.jpg?size=200)
 
 Olá, me chamo Adriano Maciel.
 
