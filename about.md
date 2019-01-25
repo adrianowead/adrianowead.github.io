@@ -1,30 +1,19 @@
 ---
 layout: page
-title: About
+title: Sobre
+published: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+![Adriano Maciel]({{site.baseurl}}/https://pt.gravatar.com/userimage/14360141/1e34ee9c6841c00e56df4aebfd7cd7b3.jpg?size=200)
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Olá, me chamo Adriano Maciel.
 
-There are currently two themes built on Poole:
+Sou programador backend a muitos anos, praticamente todo o meu conhecimento foi adquirido na prática. Apesar de ter feito alguns cursos online, muita coisa foi na tentativa e erro.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Acredito que o que define se um profissional de TI é Júnior, Pleno ou Sênior, não é a quantidade de cursos feitos, quantas graduações ou pós ele fez ou mesmo se é certificado na tecnologia X ou Y.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+O que define esse título é o quanto ele já apanhou, quantas vezes ele teve aquele problema que não está registrado em nenhuma documentação, ninguém sabe como ajudar nos fóruns e simplesmente parece que o sistema está possuido por uma entidade malígna.
 
-## Setup
+Acredite, já passei por problemas bizarros que a solução apareceu em um fórum chinês, onde precisei utilizar o Google Translator para entender.
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Se essa situação é muito familiar para você, parabéns você também é um desenvolvedor sênior nesta tecnologia.
